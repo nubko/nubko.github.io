@@ -1,0 +1,46 @@
+
+.header {
+	margin: auto;
+	height: 100vh;
+	background-position: center;
+		background-size: cover;
+	background-repeat: no-repeat;
+
+	background-image: url(images/low-poly-texture-15.png)
+}
+
+.logo {
+/*	height: 50px;*/
+	width: 200px;
+	position: fixed;
+	left: 50%;
+	top: 40vh;
+	margin-top: -10px;
+	margin-left: -100px;
+	
+}
+
+.branding {
+/*	text-align: center;*/
+}
+
+.skrim {
+	height: 100vh;
+	background-color: rgba(0,0,0,.3);
+	
+}
+
+.tag {
+	margin: 0;
+	display: inline-block;
+	position: absolute;
+	color: white;
+	top: 48vh;
+	padding-top: 1em;
+	left: 50%;
+	margin-left: -10em;
+	
+	
+}
+
+
